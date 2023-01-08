@@ -1,0 +1,13 @@
+Future Projects of Focus
+------------------------
+
+1. Bank Customer Prediction
+2. Diabetic Prediction - Elements that can predict diabetes
+3. Movie Suggestions
+4. Credit Card Default Prediction
+5. Image Identification
+6. Cell Phone Customer Churn Prediction
+7. Athlete Success Prediction
+8. Stock History to Future Prediction
+9. Establish Athlete worth based on other peers
+10. Life Insurance Claim Prediction based on comorbidities
